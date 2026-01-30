@@ -2,7 +2,7 @@
 
 ____
 
-# **Dominos POS System - Complete System Architecture Documentation**
+# **POS (Point of Sale) System - Complete System Architecture Documentation**
 
 ## **Executive Summary**
 This document provides comprehensive HLD and LLD documentation for the Dominos POS ecosystem, covering 11 interconnected applications with a focus on real-time operations, offline capabilities, and seamless integration.

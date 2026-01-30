@@ -189,3 +189,11 @@ Multi-tenant architecture facilitates the management of multiple stores with seg
 Deployment and Maintenance
 Deployment Strategies
 Use Docker for consistent deployment and CI/CD pipelines. Offer POS system reseller programs for market expansion
+
+
+This POS system utilizes a cutting-edge technology stack to deliver a feature-rich solution:
+
+Database: SQL Server ensures data integrity and scalability.
+API: .NET Core facilitates seamless communication between system components.
+Frontend Development: React.js and Electron.js provide a responsive and user-friendly interface.
+Hardware Integration: Opendrawer and barcode scanner support for efficient workflows.
